@@ -1,1 +1,0 @@
-Use Text Field with Suffix for email domain!
